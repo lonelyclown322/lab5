@@ -1,0 +1,6 @@
+update_id 18
+805 3
+1 2 3 start
+4 5 6 finish
+850
+Stepka
